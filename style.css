@@ -256,11 +256,8 @@ body {
 }
 
 
-.illustration {
-  display: flex;
-  justify-content: flex-start;
-  align-items: left;
-}
+
+
 
 object {
   width: 80px;
@@ -580,15 +577,7 @@ h3 {
   
 }
 
-.service-div .illustration{
-  position: relative;
-  display: inline-block;
-  height: 8vw;
-  width: 8vw;
-  margin: 2vw 0;
-  margin-bottom: 3vw;
-  overflow: hidden;
-}
+
 
 
 
