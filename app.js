@@ -409,11 +409,11 @@ gsap.to("body", {
 
 
 const imgList = [
-  "media/image1.png",
-  "media/image2.png",
-  "media/image3.png",
-  "media/image4.png",
-  "media/image5.png",
+  "image1.png",
+  "image2.png",
+  "image3.png",
+  "image4.png",
+  "image5.png",
 ]
 
 const fgImg = document.querySelector("#fg_img");
