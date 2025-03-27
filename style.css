@@ -735,12 +735,14 @@ h3 {
   font-weight: 50;
   font-size: 3vw;
   color: #fff;
+   padding: 2vw 2vw;
 }
 #left-section p{
   font-weight: 50;
   font-size: 3vw;
   color: rgba(255, 255, 255, 0.5);
   margin-bottom: 20vh;
+  padding: 2vw 2vw;
 }
 
 #left-section a{
@@ -779,6 +781,7 @@ h3 {
   font-size: 35vw;
   transform: rotateZ(-90deg);
   color: #fff;
+  padding: 2vw;
   
 }
 
@@ -842,4 +845,5 @@ h3 {
   width: 22vw;
   font-family: NeuMontrealLight;
   font-size: 1vw;
+  margin-right: 2rem;
 }
